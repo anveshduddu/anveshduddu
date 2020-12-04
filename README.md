@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anveshduddu/](https://github.com/anveshduddu/)
 
-- 📝 I regulary write articles on [anveshduddu.github.io](anveshduddu.github.io)
+- 📝 I regulary write articles on [anveshduddu.github.io/articles/index.html](https://anveshduddu.github.io/articles/index.html)
 
 - 💬 Ask me about **Python , full stack development**
 
