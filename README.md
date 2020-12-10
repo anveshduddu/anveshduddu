@@ -22,7 +22,7 @@
 - ⚡ Fun fact **Friendly & Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="color:#933ded;">
 <a  style="color:#933ded;" href="https://twitter.com/dudduanvesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anvesh-duddu-866b531a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://fb.com/anvesh.duddu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
