@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/dudduanvesh" target="blank"><img src="https://img.shields.io/twitter/follow/dudduanvesh?logo=twitter&style=for-the-badge" alt="dudduanvesh" /></a> </p>
 
+![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+
 - 🌱 I’m currently learning **Frameworks, python**
 
 - 🤝 I’m looking for help with **machine learning , AI**
