@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anvesh</h1>
-<h3 align="center">i'm passionate about frontend developement | Digital Marketing | Python Developement ❤ from India</h3>
+<h3 align="center">i'm passionate about frontend developement | Digital Marketing | Python Developement </h3>
+<h1>India :india:</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anveshduddu" alt="anveshduddu" /></a> </p>
 
